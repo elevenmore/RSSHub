@@ -2,7 +2,7 @@
 .cursorrules
 .devenv
 .direnv
-.env
+# .env
 .eslintcache
 .idea
 .pre-commit-config.yaml
